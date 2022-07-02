@@ -23,4 +23,4 @@ test2();
 /** Event Loop */ 
 
 // Callback messages are queued and then event loop checks and de-queues functions from there
-// Callbacks set code aside and event loop makes sure its taken care of. This is what allows for asynchronicity
+// Callbacks set code aside and event loop makes sure its taken care of. This is what allows for asynchronicity; engine can do other things and the come back to items on queue
