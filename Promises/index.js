@@ -61,3 +61,10 @@ let setTimeoutP = (time) => {
 setTimeoutP(5000)
         .then(() => console.log('Timed out'))
         .catch((err) => console.log(err));
+
+/** Static methods on Promise object */
+
+// all() - pass in array of promises or k/v object of promises. Returns a promise once all promises passed in fulfilled. Will reject if any reject
+// race() - return only the first promise to resolve
+// allSettled() - waits until all are either resolved or rejected
+// any() - as soon as any are fulfilled
