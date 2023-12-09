@@ -4,8 +4,8 @@ Course covering Asynchronicity in JavaScript.
 ## Topics Included
 
 ```
-Promises
-Callbacks
-Async Await
-Generators
+> Promises
+> Callbacks
+> Async Await
+> Generators
 ```
