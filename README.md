@@ -1,5 +1,5 @@
 # JSAsync
-Course covering Asynchronicity in JavaScript
+Course covering Asynchronicity in JavaScript. 
 
 ## Topics Included
 
